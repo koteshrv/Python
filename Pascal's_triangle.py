@@ -4,6 +4,11 @@ Given an integer n, return the nth (0-indexed) row of Pascal's triangle.
 Pascal's triangle can be created as follows: In the top row, there is an array of 1. Subsequent row is created by adding the number above and to the left with the number above and to the right, treating empty elements as 0.
 
 The first few rows are:
+1
+11
+121
+1331
+14641
 
 
 
