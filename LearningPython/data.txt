@@ -1,0 +1,3 @@
+My name is Kotesh
+Now, I'm learning Python
+Now I'm using Pycharm
